@@ -1,0 +1,24 @@
+{
+  "name": "firebase-auth-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/plake492/firebase-auth-db.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/plake492/firebase-auth-db/issues"
+  },
+  "homepage": "https://github.com/plake492/firebase-auth-db#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^7.13.2"
+  }
+}
